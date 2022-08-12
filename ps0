@@ -1,3 +1,4 @@
+#imports numpy library for logarithm
 import numpy
 
 # Asks user for number x and y
